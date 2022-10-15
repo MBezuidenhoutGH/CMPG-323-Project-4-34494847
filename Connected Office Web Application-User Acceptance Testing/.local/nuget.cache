@@ -1,8 +1,8 @@
 {
   "version": 2,
-  "dgSpecHash": "e0FcYxgKT2sew13SZtLvyxaxSDlrIhP9myXJz4GT0hBrKU4AlhSBGN8agnCFYEMcrm2u1OijeKvt+FW+jWL9Dg==",
+  "dgSpecHash": "Nfw3bxEe0BmYd7Cw0A3RMQ6/HBz11/kRVqrLdX7PD6upDv7QUJKkG5lVyOTXQlCRudvBDxXI8mra5nqv48nOJQ==",
   "success": true,
-  "projectFilePath": "C:\\Users\\marce\\Documents\\UiPath\\Connected Office Web Application-User Acceptance Testing\\.local\\",
+  "projectFilePath": "C:\\Users\\marce\\Desktop\\2022 Uni\\Sem 2\\CMPG323\\CMPG-323-Project-4-34494847\\Connected Office Web Application-User Acceptance Testing\\.local\\",
   "expectedPackageFiles": [
     "C:\\Users\\marce\\.nuget\\packages\\automapper\\9.0.0\\automapper.9.0.0.nupkg.sha512",
     "C:\\Users\\marce\\.nuget\\packages\\azure.core\\1.18.0\\azure.core.1.18.0.nupkg.sha512",
