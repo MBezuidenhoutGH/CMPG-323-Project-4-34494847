@@ -1,7 +1,7 @@
 {
   "name": "Connected Office Web Application-User Acceptance Testing",
   "description": "Student 34494847's user acceptance testing for the connected office web application",
-  "main": "Zones.xaml",
+  "main": "MainFlow.xaml",
   "dependencies": {
     "UiPath.Excel.Activities": "[2.16.0]",
     "UiPath.Mail.Activities": "[1.18.0]",
@@ -13,7 +13,7 @@
   "entitiesStores": [],
   "schemaVersion": "4.0",
   "studioVersion": "22.10.1.0",
-  "projectVersion": "1.0.1",
+  "projectVersion": "1.0.2",
   "runtimeOptions": {
     "autoDispose": false,
     "netFrameworkLazyLoading": false,
@@ -47,8 +47,8 @@
   "expressionLanguage": "VisualBasic",
   "entryPoints": [
     {
-      "filePath": "Zones.xaml",
-      "uniqueId": "809cbfb6-239c-4a34-8f6a-930f0b42b7c5",
+      "filePath": "MainFlow.xaml",
+      "uniqueId": "2064363d-f6f7-4ffd-adb1-b2cf3699100b",
       "input": [],
       "output": []
     }
