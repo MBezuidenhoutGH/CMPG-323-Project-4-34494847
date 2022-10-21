@@ -103,7 +103,7 @@
       <x:Boolean x:Key="ShouldExpandAll">True</x:Boolean>
     </scg:Dictionary>
   </sap:WorkflowViewStateService.ViewState>
-  <Sequence DisplayName="Main Sequence" sap:VirtualizedContainerService.HintSize="750,4393" sap2010:WorkflowViewState.IdRef="Sequence_1">
+  <Sequence DisplayName="Sequence: Zones" sap:VirtualizedContainerService.HintSize="750,4393" sap2010:WorkflowViewState.IdRef="Sequence_1">
     <sap:WorkflowViewStateService.ViewState>
       <scg:Dictionary x:TypeArguments="x:String, x:Object">
         <x:Boolean x:Key="IsExpanded">True</x:Boolean>
