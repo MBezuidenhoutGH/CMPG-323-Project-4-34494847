@@ -1,6 +1,6 @@
 ﻿<h2>How to use the automation</h2>
 <p>
-	Check out this video I made 😎 <a href="https://www.youtube.com/watch?v=iTHTtf828l8">CMPG-323-Project-4-34494847 | Testing & RPA | UiPath</a> 
+	Check out this video I made 😎 <a href="https://www.youtube.com/watch?v=iTHTtf828l8">CMPG-323-Project-4-34494847 | Testing & RPA | UiPath</a> <- (CLICK THE BLUE TEXT) 
 	which demonstrates student 34494847's working project 4 on testing & RPA. The first part of the video is a very brief walkthrough of the project 
 	to talk about my thoughts on developing the mechanisms. I run the project from the UI Path desktop application then lastly, I show that I also 
 	hosted my project on orchestrator and run it from orchestrator as well.<br />
@@ -23,7 +23,7 @@
 	<br /><img src="img/categories.png" alt=""/><br />
 	<br /><img src="img/devices.png" alt=""/><br />
 	The student ensured that functionality exists within the UiPath processes to test CRUD for Zones, Devices and Categories, also
-	accomodation has been made for the login process. No screenshots will be shared on this because the project can be accessed
+	accommodation has been made for the login process. No screenshots will be shared on this because the project can be accessed
 	in the repository.
 </p>
 <h2>Testing</h2>
