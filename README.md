@@ -66,6 +66,6 @@
 </p>
 <h2>Reference List</h2>
 <p>
-	The student provided a reference list with over 30 references on the Project 4 repository and the submission form. Only websites that were relevant and actually useful to 
+	The student provided a reference list with over 25 references on the Project 4 repository and the submission form. Only websites that were relevant and actually useful to 
 	produce this successful project were referenced.
 </p>
