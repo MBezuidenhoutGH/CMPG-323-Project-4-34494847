@@ -1,4 +1,4 @@
-PS: I HAVE A STRETCH TASK FOR THIS PROJECT, please see Scrum Implementation section
+PS: I HAVE A **STRETCH TASK** FOR THIS PROJECT, please see Scrum Implementation section
 <h2>How to use the automation</h2>
 <p>
 	Check out this video I made 😎 <a href="https://www.youtube.com/watch?v=iTHTtf828l8">CMPG-323-Project-4-34494847 | Testing & RPA | UiPath</a> <- (CLICK THE BLUE TEXT) 
